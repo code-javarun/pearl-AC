@@ -347,8 +347,8 @@ if ($('.numbers-section').length > 0) {
 /* @end numbers section */
 
 /* common slick carousels */
-if ($('.pearl-slider').length > 0) {
-  $('.pearl-slider').slick({
+if ($('.grapinz-slider').length > 0) {
+  $('.grapinz-slider').slick({
     dots: false,
     autoplay: true,
     speed: 1000,
