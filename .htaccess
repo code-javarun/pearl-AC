@@ -1,7 +1,5 @@
 RewriteEngine On
 
-Options +Indexes
-
 # Remove .html extension from URLs
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.html -f
